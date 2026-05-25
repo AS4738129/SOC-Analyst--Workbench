@@ -1,2 +1,2 @@
 # SOC-Analyst-Workbench
-Network Threat Detection Analysis | Wazuh | Suricata | Nmap | Nikto
+Real-world Network Threat Detection Analysis and Incident response | Wazuh | Suricata | Nmap | Nikto
