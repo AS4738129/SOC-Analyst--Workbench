@@ -227,7 +227,7 @@ function Navbar() {
         </div>
 
         <div className="hidden lg:block">
-          <Button variant="secondary" icon={Github} href="GITHUB_URL">
+          <Button variant="secondary" icon={Github} href="https://github.com/AS4738129/SOC-Analyst--Workbench">
             GitHub
           </Button>
         </div>
@@ -260,7 +260,7 @@ function Navbar() {
             </a>
           ))}
           <a
-            href="GITHUB_URL"
+            href="https://github.com/AS4738129/SOC-Analyst--Workbench"
             className="mt-4 flex items-center justify-center gap-2 py-3 rounded-lg text-sm font-medium"
             style={{ background: C.blue, color: "#0A1120" }}
           >
@@ -325,7 +325,7 @@ function Hero() {
             <Button variant="primary" icon={Radar} href="#architecture">
               Explore the Lab
             </Button>
-            <Button variant="secondary" icon={Github} href="GITHUB_URL">
+            <Button variant="secondary" icon={Github} href="https://github.com/AS4738129/SOC-Analyst--Workbench">
               View GitHub
             </Button>
           </div>
@@ -515,7 +515,7 @@ function Architecture() {
                 ))}
               </ol>
               <div className="mt-6 pt-5" style={{ borderTop: `1px solid ${C.borderSoft}` }}>
-                <Button variant="secondary" icon={GitBranch} href="GITHUB_URL">
+                <Button variant="secondary" icon={GitBranch} href="https://github.com/AS4738129/SOC-Analyst--Workbench">
                   View Architecture
                 </Button>
               </div>
@@ -747,7 +747,7 @@ function CaseCard({ c }) {
         </div>
 
         <a
-          href="GITHUB_URL"
+          href="https://github.com/AS4738129/SOC-Analyst--Workbench"
           className="flex items-center gap-1.5 text-sm font-medium mt-5 pt-5"
           style={{ color: C.blue, borderTop: `1px solid ${C.borderSoft}` }}
         >
@@ -1204,10 +1204,10 @@ function Contact() {
           documentation.
         </p>
         <div className="flex flex-wrap items-center justify-center gap-3">
-          <Button variant="primary" icon={Github} href="GITHUB_URL">
+          <Button variant="primary" icon={Github} href="https://github.com/AS4738129/SOC-Analyst--Workbench">
             GitHub Repository
           </Button>
-          <Button variant="secondary" icon={Linkedin} href="LINKEDIN_URL">
+          <Button variant="secondary" icon={Linkedin} href="https://www.linkedin.com/in/simon-adade-44abx2569">
             LinkedIn
           </Button>
         </div>
