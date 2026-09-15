@@ -409,9 +409,9 @@ function About() {
     <section id="about" className="py-20 sm:py-28" style={{ background: C.bgAlt }}>
       <div className="max-w-6xl mx-auto px-5 sm:px-8">
         <SectionHeader
-          eyebrow="About the lab"
-          title="A controlled environment for practicing the SOC analyst workflow"
-          description="This project simulates the workflow of a Security Operations Center analyst in a controlled laboratory environment. Security activity is generated and monitored through multiple telemetry sources. Alerts are detected, triaged, investigated, correlated, documented, and assigned a final verdict."
+          eyebrow="About the project"
+          title="A hands-on SOC environment built around real analyst workflows"
+          description="This project demonstrates a practical Security Operations Center workflow in a controlled laboratory environment. It combines endpoint, network, and Windows security telemetry to detect suspicious activity, investigate alerts, correlate events, document findings, and manage cases through an end-to-end SOC process."
         />
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {items.map((it) => (
