@@ -303,7 +303,7 @@ function Hero() {
               />
               <span className="relative inline-flex rounded-full h-2 w-2" style={{ background: C.green }} />
             </span>
-            Active Project
+            Hands-On SOC Environment
           </div>
 
           <h1
@@ -316,9 +316,9 @@ function Hero() {
             Security Monitoring, Detection &amp; Incident Investigation
           </p>
           <p className="max-w-xl mb-9" style={{ color: C.textFaint, fontSize: "1rem", lineHeight: 1.75 }}>
-            A hands-on Security Operations Center lab demonstrating security monitoring,
-            detection engineering, alert triage, incident investigation, event correlation,
-            ticket management, and security documentation.
+            A hands-on SOC environment built to demonstrate practical security operations, including alert monitoring,
+            detection engineering, incident triage, log analysis, event correlation,
+            ticket management, investigation, and security reporting.
           </p>
 
           <div className="flex flex-wrap gap-3 mb-10">
